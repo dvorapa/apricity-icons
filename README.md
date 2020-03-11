@@ -30,7 +30,7 @@ You might want to buy me a [hot chocolate ☕](https://paypal.me/dvorapa).
 
 ## Sources
 
-Basic structure is copied from `vimix`, except the following folders:
+Basic structure is derived from `vimix`, except the following folders:
 - 16/mimetypes: `numix`
 - 16/places: `numix`
 - scalable/apps: `numix-circle`
