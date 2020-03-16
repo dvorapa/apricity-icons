@@ -33,6 +33,7 @@ You might want to buy me a [hot chocolate ☕](https://paypal.me/dvorapa).
 Basic structure is derived from `vimix`, except the following folders:
 - 16/mimetypes: `numix`
 - 16/places: `numix`
+- 22/mimetypes: `numix`
 - scalable/apps: `numix-circle`
 - scalable/devices: apricity/unknown
 - scalable/mimetypes: `numix`
