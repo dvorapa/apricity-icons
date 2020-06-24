@@ -31,13 +31,14 @@ You might want to buy me a [hot chocolate ☕](https://paypal.me/dvorapa).
 ## Sources
 
 Basic structure is derived from `vimix`, except the following folders:
-- 16/mimetypes: `numix`
-- 16/places: `numix`
-- 22/mimetypes: `numix`
 - scalable/apps: `numix-circle`
-- scalable/devices: apricity/unknown
-- scalable/mimetypes: `numix`
-- symbolic/places: `paper`
+- scalable/devices: `apricity-os` or unknown
+- 16+22+scalable/mimetypes: `numix`
+- 16-24/panel/pamac-tray*: `numix`
+- 16-24/places: `vimix`/scalable
+- symbolic/places: `vimix` and `paper`
+- 16-24+symbolic/actions/process-stop*: `numix`
+- symbolic/status/process-working*: `numix-light`
 
 ## License
 
